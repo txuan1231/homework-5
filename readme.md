@@ -6,10 +6,10 @@ Our group project has to do with scenarios where we can use our knowledge of DOM
 
 ### Live Link
 
-[Bookstore Page](https://txuan.github.io/homework-5/bookstore.html)  
-[Restaurant Page](https://txuan.github.io/homework-5/restaurant.html)  
-[Flower Shop Page](https://txuan.github.io/homework-5/flowershop.html)  
-[Animal Shelter Page](https://txuan.github.io/homework-5/animalshelter.html)
+[Bookstore Page](https://txuan1231.github.io/homework-5/bookstore.html)  
+[Restaurant Page](https://txuan1231.github.io/homework-5/restaurant.html)  
+[Flower Shop Page](https://txuan1231.github.io/homework-5/flowershop.html)  
+[Animal Shelter Page](https://txuan1231.github.io/homework-5/animalshelter.html)
 
 ### Key Takeaways
 
