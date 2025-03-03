@@ -1,16 +1,21 @@
 nav {
-    height: 70px;
-    padding: 20px;
-    background-color: lightblue;
+  height: 70px;
+  padding: 20px;
+  background-color: lightblue;
 
-    display: flex;
-    align-items: center;
-    gap: 40px;
+  display: flex;
+  align-items: center;
+  gap: 40px;
 }
 
 nav a {
-    text-decoration: none;
-    color: black;
-    font-size: 30px;
-    font-family: 'Times New Roman', Times, serif;
+  text-decoration: none;
+  color: black;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+li {
+  padding: 20px;
+  margin-bottom: 20px;
 }
