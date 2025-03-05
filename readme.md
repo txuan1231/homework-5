@@ -13,7 +13,7 @@ Our group project has to do with scenarios where we can use our knowledge of DOM
 
 ### Key Takeaways
 
-Understanding of why we are doing this project
+we are doing this project to show that we understand how to use the loops and since it's our first group assignment it also make us ready for more group assignments.
 
 ### Core Webpages
 
