@@ -21,7 +21,7 @@ List core webpages and briefly describe the page of them
 
 ### Design Choices
 
-For our website, we chose to use a light blue banner that could house our different tabs for out webpages. We decided to list the page name and subsequent info under the banner to make it more unifed per page. We also decided to add spacers to our listed bulletins on each page to make the design more readable and eye-friendly.
+For our website, we chose to use a light blue banner that could house our different tabs for out webpages. We decided to list the page name and subsequent info under the banner to make it more unifed per page. We also decided to add spacers to our listed bulletins, aswell as added a colored border on each page to make the design more readable and eye-friendly.
 
 ### Members & Responsibilities
 
