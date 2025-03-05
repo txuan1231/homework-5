@@ -25,7 +25,7 @@ For our website, we chose to use a light blue banner that could house our differ
 
 ### Members & Responsibilities
 
-Thomas Xuan: President - bookstore.html
-Abdallah Abu Mayaleh: - restaurant.html
-Jiaoqi Luo: - flowershop.html
-Xavier Kyser: - animalshelter.html
+Thomas Xuan: President , Scrum Master - bookstore.html
+Abdallah Abu Mayaleh: Analyst - restaurant.html
+Jiaoqi Luo: Architect - flowershop.html
+Xavier Kyser: Designer - animalshelter.html
